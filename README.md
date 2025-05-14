@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/amotivv-cloudflare-browser-rendering-badge.png)](https://mseep.ai/app/amotivv-cloudflare-browser-rendering)
+
 # Cloudflare Browser Rendering Experiments & MCP Server
 
 This project demonstrates how to use Cloudflare Browser Rendering to extract web content for LLM context. It includes experiments with the REST API and Workers Binding API, as well as an MCP server implementation that can be used to provide web context to LLMs.
